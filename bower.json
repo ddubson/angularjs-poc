@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-poc",
+  "homepage": "https://github.com/ddubson/angularjs-poc",
+  "authors": [
+    "Dmitriy Dubson <d.dubson@gmail.com>"
+  ],
+  "description": "Sample project using AngularJS",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
