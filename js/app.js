@@ -1,1 +1,3 @@
-angular.module('app', []);
+angular.module('app', ['7minWorkout']);
+
+angular.module('7minWorkout', []);
